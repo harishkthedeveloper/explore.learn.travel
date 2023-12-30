@@ -1,0 +1,375 @@
+{
+  "category" : [
+    {
+      "cat_id": 1,
+      "cat_name": "Electronics"
+    },
+    {
+      "cat_id": 3,
+      "cat_name": "Baby Products"
+    },
+    {
+      "cat_id": 4,
+      "cat_name": "Books I Read"
+    },
+    {
+      "cat_id": 5,
+      "cat_name": "Health and Fitness"
+    },
+    {
+      "cat_id": 7,
+      "cat_name": "Home & Kitchen Appliances"
+    },
+    {
+      "cat_id": 8,
+      "cat_name": "Skin Care"
+    },
+    {
+      "cat_id": 6,
+      "cat_name": "My Car Accessories"
+    }
+  ],
+  "Product": [
+    {
+      "title": "Sony Alpha ZV-E10L with Zoom Lens 16-55 mm",
+      "img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71EnzcOtq2L._SX569_.jpg",
+      "link": "https://amzn.to/47iNUI7",
+      "cat_id": 1
+    },{
+      "title": "Sony Alpha ZV-E10 Mirrorless Camera Only",
+      "img": "https://m.media-amazon.com/images/I/6198wbgWOOL._SY450_.jpg",
+      "link": "https://amzn.to/48jV9AH",
+      "cat_id": 1
+    },{
+      "title": "Sigma 30 mm f/1.4 DC DN Contemporary Lens for Sony E-Mount - Black",
+      "img": "https://m.media-amazon.com/images/I/61-KmOXOevL._SX569_.jpg",
+      "link": "https://amzn.to/3voBhxz",
+      "cat_id": 1
+    },
+    {
+      "title": "4-in-1 Adjustable Baby Carrier",
+      "img": "https://m.media-amazon.com/images/I/51aOVCdn6yL._SX679_.jpg",
+      "link": "https://amzn.to/4aGje6g",
+      "cat_id": 3
+    },
+    {
+      "title": "Sujata Supermix, Mixer Grinder, 900 Watts, 3 Jars (White)",
+      "img": "https://m.media-amazon.com/images/I/41wCglxg9qL._SX300_SY300_QL70_FMwebp_.jpg",
+      "link": "https://amzn.to/47bP4Ff",
+      "cat_id": 7
+    },
+    {
+      "title": "Butterfly Curve Stainless Steel Outer Lid Pressure Cooker, 2 Litre, Silver",
+      "img": "https://m.media-amazon.com/images/I/716bnsxqhmL._SX522_.jpg",
+      "link": "https://amzn.to/3S0lL2X",
+      "cat_id": 7
+    },
+    {
+      "title": "Air Tight Containers For Kitchen",
+      "img": "https://m.media-amazon.com/images/I/91-GcxKm8TL._SX466_.jpg",
+      "link": "https://amzn.to/3GZkrbd",
+      "cat_id": 7
+    },
+    {
+      "title": "Whirlpool 7.5 Kg 5 Star Stainwash Pro Fully Automatic Top Load Washing Machine",
+      "img": "https://m.media-amazon.com/images/I/61nyAGtTltL._SY445_.jpg",
+      "link": "https://amzn.to/3RNDiLE",
+      "cat_id": 7
+    },
+    {
+      "title": "Kitchen Food Weighing Scale",
+      "img": "https://m.media-amazon.com/images/I/51CF0NoyUUL._SX385_.jpg",
+      "link": "https://amzn.to/3NFh4d9",
+      "cat_id": 7
+    },{
+      "title": "Kitchen Food Weighing Scale",
+      "img": "https://m.media-amazon.com/images/I/51CF0NoyUUL._SX385_.jpg",
+      "link": "https://amzn.to/3NFh4d9",
+      "cat_id": 5
+    },
+    {
+      "title": "Xiaomi Wired in-Ear Earphones with Mic",
+      "img": "https://m.media-amazon.com/images/I/51jQf9R95lL._SX679_.jpg",
+      "link": "https://amzn.to/3RVNkvf",
+      "cat_id": 1
+    },
+    {
+      "title": "Baby Head Protector for Safety of Kids 6M to 3 Years",
+      "img": "https://m.media-amazon.com/images/I/51zkgvy26EL._SX679_.jpg",
+      "link": "https://amzn.to/3NLPc7v",
+      "cat_id": 3
+    },
+    {
+      "title": "Insulated Flask Water Bottle, 500 ML",
+      "img": "https://m.media-amazon.com/images/I/61FTilPhsOL._SX522_.jpg",
+      "link": "https://amzn.to/3vfciwO",
+      "cat_id": 5
+    },{
+      "title": "Insulated Flask Water Bottle, 500 ML",
+      "img": "https://m.media-amazon.com/images/I/61FTilPhsOL._SX522_.jpg",
+      "link": "https://amzn.to/3vfciwO",
+      "cat_id": 7
+    }, {
+      "title": "Insulated Flask Water Bottle, 850 ML",
+      "img": "https://m.media-amazon.com/images/I/51J5UtPYQkL._SX522_.jpg",
+      "link": "https://amzn.to/3H0ILJR",
+      "cat_id": 5
+    },{
+      "title": "Insulated Flask Water Bottle, 850 ML",
+      "img": "https://m.media-amazon.com/images/I/51J5UtPYQkL._SX522_.jpg",
+      "link": "https://amzn.to/3H0ILJR",
+      "cat_id": 7
+    },
+    {
+      "title": "Hawkins 3 Litre Inner Lid Pressure Cooker, Stainless Steel Cooker",
+      "img": "https://m.media-amazon.com/images/I/61PFe66oy6L._SY355_.jpg",
+      "link": "https://amzn.to/3S1gokU",
+      "cat_id": 7
+    },
+    {
+      "title": "Max Care Cold Pressed Virgin Coconut Oil, 1L",
+      "img": "https://m.media-amazon.com/images/I/61PLtq2FQRS._SY550_.jpg",
+      "link": "https://amzn.to/41HZs6c",
+      "cat_id": 8
+    },
+    {
+      "title": "Classic Mosquito Net for Double Bed | King Size Foldable ",
+      "img": "https://m.media-amazon.com/images/I/71MarcAx8GL._SX522_.jpg",
+      "link": "https://amzn.to/3tsxzmi",
+      "cat_id": 7
+    },
+    {
+      "title": "Flexible Gorillapod Tripod with 360",
+      "img": "https://m.media-amazon.com/images/I/71YTwI+ZfAL._SY450_.jpg",
+      "link": "https://amzn.to/3H0LBP3",
+      "cat_id": 1
+    },
+    {
+      "title": "Ubtan Cleansing Face Wash",
+      "img": "https://m.media-amazon.com/images/I/510rkOV3jXL._SX679_.jpg",
+      "link": "https://amzn.to/48qYdL4",
+      "cat_id": 8
+    },
+    {
+      "title": "Apple Cider Vinegar Shampoo And Coconut + Avocado Oil Conditioner",
+      "img": "https://m.media-amazon.com/images/I/81XiDFT+zUL._SX679_.jpg",
+      "link": "https://amzn.to/3vdMl0B",
+      "cat_id": 8
+    },
+    {
+      "title": "Doglapan",
+      "img": "https://m.media-amazon.com/images/I/81InFh0R4UL._SY425_.jpg",
+      "link": "https://amzn.to/3RWO9Uy",
+      "cat_id": 4
+    },
+    {
+      "title": "TATA NEXON OEM Type Small Size ARMREST",
+      "img": "https://m.media-amazon.com/images/I/51VJqqIQ8dL._SX679_.jpg",
+      "link": "https://amzn.to/48D9xnx",
+      "cat_id": 6
+    },
+    {
+      "title": "3 Socket LED Voltage Display Dual USB Car Charger on/Off Switches 12V Car Splitter",
+      "img": "https://m.media-amazon.com/images/I/61ZxLbW4KXL._SX679_.jpg",
+      "link": "https://amzn.to/48bSJ76",
+      "cat_id": 6
+    },
+    {
+      "title": "Red Onion Black Seed Oil Shampoo",
+      "img": "https://m.media-amazon.com/images/I/51HL1kUiE2L._SX679_.jpg",
+      "link": "https://amzn.to/3NK1gWE",
+      "cat_id": 8
+    },
+    {
+      "title": "U Shaped Pregnancy Pillow",
+      "img": "https://m.media-amazon.com/images/I/61+FBYQ83xS._SX522_.jpg",
+      "link": "https://amzn.to/3vjBnH1",
+      "cat_id": 3
+    },
+    {
+      "title": "HD Glass Convex Lens Frameless Adjustable 360 Degree Wide Angle for All Car (2 PCS, Rectangle)",
+      "img": "https://m.media-amazon.com/images/I/61FBv3IhgaL._SX679_.jpg",
+      "link": "https://amzn.to/47k5BXs",
+      "cat_id": 6
+    },
+    {
+      "title": "Portable & Flexible Mini Tripod",
+      "img": "https://m.media-amazon.com/images/I/61Sgk1yonML._SX679_.jpg",
+      "link": "https://amzn.to/3tD985B",
+      "cat_id": 1
+    },
+    {
+      "title": "Wireless Mic with Charging Case, Lavalier Microphone Compatible for Type-C & iPhone",
+      "img": "https://m.media-amazon.com/images/I/61JpHK8-oSL._SX679_.jpg",
+      "link": "https://amzn.to/47k5XNM",
+      "cat_id": 1
+    },
+    {
+      "title": "Super Soft Microfiber Car Duster",
+      "img": "https://m.media-amazon.com/images/I/61i4xH1uq-L._SX679_.jpg",
+      "link": "https://amzn.to/48A0Bz3",
+      "cat_id": 6
+    },
+    {
+      "title": "Car Mobile Phone Holder Stand for Dashboard",
+      "img": "https://m.media-amazon.com/images/I/31xVvQS0zML._SX300_SY300_QL70_FMwebp_.jpg",
+      "link": "https://amzn.to/3REkMoI",
+      "cat_id": 1
+    },
+    {
+      "title": "Mirror Dash Cam Upgraded with WIFI, GPS, 10\" Full Touch Screen Rear View Mirror Camera with Waterproof Backup Camera",
+      "img": "https://m.media-amazon.com/images/I/71Dxpe88rnL._SX569_.jpg",
+      "link": "https://amzn.to/41MpBRG",
+      "cat_id": 6
+    },
+    {
+      "title": "Rich Dad Poor Dad (Marathi)",
+      "img": "https://m.media-amazon.com/images/I/71U3l9gAkHL._SY425_.jpg",
+      "link": "https://amzn.to/3RYPev3",
+      "cat_id": 4
+    },
+    {
+      "title": "Gaming Mousepad",
+      "img": "https://m.media-amazon.com/images/I/51E5+VR3qJL._SX679_.jpg",
+      "link": "https://amzn.to/3vkD0UP",
+      "cat_id": 1
+    },
+    {
+      "title": "Logitech K480 Wireless Multi-Device Keyboard",
+      "img": "https://m.media-amazon.com/images/I/6195WxBbzLL._SX679_.jpg",
+      "link": "https://amzn.to/41I1eEo",
+      "cat_id": 1
+    },
+    {
+      "title": "Logitech Pebble Wireless Mouse ",
+      "img": "https://m.media-amazon.com/images/I/51zsDtua-WL._SX569_.jpg",
+      "link": "https://amzn.to/41GxyaX",
+      "cat_id": 1
+    },
+    {
+      "title": "Garbha Sanskar",
+      "img": "https://m.media-amazon.com/images/I/91bX3ULVp2L._SY425_.jpg",
+      "link": "https://amzn.to/3v9tQu7",
+      "cat_id": 3
+    },{
+      "title": "Garbha Sanskar",
+      "img": "https://m.media-amazon.com/images/I/91bX3ULVp2L._SY425_.jpg",
+      "link": "https://amzn.to/3v9tQu7",
+      "cat_id": 4
+    },
+    {
+      "title": "Ikigai / इकिगाई",
+      "img": "https://m.media-amazon.com/images/I/71ycRyWFfSL._SY425_.jpg",
+      "link": "https://amzn.to/47k6EGS",
+      "cat_id": 4
+    },
+    {
+      "title": "Cosmetic Pouch",
+      "img": "https://m.media-amazon.com/images/I/51i2zWwsDFL.jpg",
+      "link": "https://amzn.to/3H19tSM",
+      "cat_id": 7
+    },
+    {
+      "title": "Hair Straightening Brush",
+      "img": "https://m.media-amazon.com/images/I/61EEloik8PL._SX569_.jpg",
+      "link": "https://amzn.to/3vbQOki",
+      "cat_id": 1
+    },
+    {
+      "title": "Hair Straightening Brush",
+      "img": "https://m.media-amazon.com/images/I/61EEloik8PL._SX569_.jpg",
+      "link": "https://amzn.to/3vbQOki",
+      "cat_id": 8
+    },
+    {
+      "title": "Weight Lifting Wrist Support ",
+      "img": "https://m.media-amazon.com/images/I/710H7d8S05L._SX522_.jpg",
+      "link": "https://amzn.to/47j9xYP",
+      "cat_id": 5
+    },
+    {
+      "title": "Weight Lifting Belt for Back Support ",
+      "img": "https://m.media-amazon.com/images/I/716GY+VZgDL._SX522_.jpg",
+      "link": "https://amzn.to/3RZLOs4",
+      "cat_id": 5
+    },
+    {
+      "title":"Whey (2 lbs/907 g) (Double Rich Chocolate) Protein Powder",
+      "img": "https://m.media-amazon.com/images/I/71W2pH7QJBL._SY450_.jpg",
+      "link": "https://amzn.to/3GYIgQw",
+      "cat_id": 5
+    },
+    {
+      "title":"Streax Professional Vitariche Gloss Hair Serum",
+      "img": "https://m.media-amazon.com/images/I/61+hry7xIuL._SX679_.jpg",
+      "link": "https://amzn.to/3TG5Vg2",
+      "cat_id": 8
+    },
+    {
+      "title":"Greatest Books For Personal Growth & Wealth ",
+      "img": "https://m.media-amazon.com/images/I/51wxQRFK+iL._SX342_SY445_.jpg",
+      "link": "https://amzn.to/41DUTKq",
+      "cat_id": 4
+    },
+    {
+      "title":"4 in 1 USB Type C to HDMI Port VGA Port USB Adapter USB3.0 PD Connect",
+      "img": "https://m.media-amazon.com/images/I/61vu7IEaSSL._SX569_.jpg",
+      "link": "https://amzn.to/3RDUGSP",
+      "cat_id": 1
+    },
+    {
+      "title":"Skipping-Rope",
+      "img": "https://m.media-amazon.com/images/I/61DteV3hXqL._SX569_.jpg",
+      "link": "https://amzn.to/3vjDuKX",
+      "cat_id": 5
+    },
+    {
+      "title":"Travel Electronic Gadget Organizer Case",
+      "img": "https://m.media-amazon.com/images/I/81pRV-nWZeL._SX679_.jpg",
+      "link": "https://amzn.to/4aGUHhF",
+      "cat_id": 7
+    },
+    {
+      "title":"Iron Tawa, 12 Inches",
+      "img": "https://m.media-amazon.com/images/I/410JLv1+fuL._SX425_.jpg",
+      "link": "https://amzn.to/3v9vQCD",
+      "cat_id": 7
+    },
+    {
+      "title":"Handy Chopper with 3 Blades",
+      "img": "https://m.media-amazon.com/images/I/51RXzjrUmkL._SX522_.jpg",
+      "link": "https://amzn.to/47bwEUY",
+      "cat_id": 7
+    },
+    {
+      "title":"Helmet for Men",
+      "img": "https://m.media-amazon.com/images/I/51BXMsxaVoL._SX679_.jpg",
+      "link": "https://amzn.to/47iUJt8",
+      "cat_id": 6
+    },
+    {
+      "title":"Polyester Sports Gym Duffle Bag",
+      "img": "https://m.media-amazon.com/images/I/71SGIL9fgBL._SX569_.jpg",
+      "link": "https://amzn.to/3GZoYdJ",
+      "cat_id": 5
+    },
+    {
+      "title":"Tripod with Mobile Holder for Smart Phone, DSLR",
+      "img": "https://m.media-amazon.com/images/I/31GohUTv57L._SX300_SY300_QL70_FMwebp_.jpg",
+      "link": "https://amzn.to/47k9AU5",
+      "cat_id": 1
+    },
+    {
+      "title":"Ikigai English",
+      "img": "https://m.media-amazon.com/images/I/814L+vq01mL._SY425_.jpg",
+      "link": "https://amzn.to/3REhkdQ",
+      "cat_id": 4
+    },
+    {
+      "title":"Odyssey L8J88AA Backpack for Laptop",
+      "img": "https://m.media-amazon.com/images/I/41fGsanz86L._SX300_SY300_QL70_FMwebp_.jpg",
+      "link": "https://amzn.to/3NJr6dy",
+      "cat_id": 1
+    }
+  ]
+}
