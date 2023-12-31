@@ -5,12 +5,8 @@
       "cat_name": "Electronics"
     },
     {
-      "cat_id": 3,
-      "cat_name": "Baby Products"
-    },
-    {
-      "cat_id": 4,
-      "cat_name": "Books I Read"
+      "cat_id": 2,
+      "cat_name": "My Car Accessories"
     },
     {
       "cat_id": 5,
@@ -25,8 +21,12 @@
       "cat_name": "Skin Care"
     },
     {
-      "cat_id": 6,
-      "cat_name": "My Car Accessories"
+      "cat_id": 3,
+      "cat_name": "Baby Products"
+    },
+    {
+      "cat_id": 4,
+      "cat_name": "Books I Read"
     }
   ],
   "Product": [
@@ -166,13 +166,13 @@
       "title": "TATA NEXON OEM Type Small Size ARMREST",
       "img": "https://m.media-amazon.com/images/I/51VJqqIQ8dL._SX679_.jpg",
       "link": "https://amzn.to/48D9xnx",
-      "cat_id": 6
+      "cat_id": 2
     },
     {
       "title": "3 Socket LED Voltage Display Dual USB Car Charger on/Off Switches 12V Car Splitter",
       "img": "https://m.media-amazon.com/images/I/61ZxLbW4KXL._SX679_.jpg",
       "link": "https://amzn.to/48bSJ76",
-      "cat_id": 6
+      "cat_id": 2
     },
     {
       "title": "Red Onion Black Seed Oil Shampoo",
@@ -190,7 +190,7 @@
       "title": "HD Glass Convex Lens Frameless Adjustable 360 Degree Wide Angle for All Car (2 PCS, Rectangle)",
       "img": "https://m.media-amazon.com/images/I/61FBv3IhgaL._SX679_.jpg",
       "link": "https://amzn.to/47k5BXs",
-      "cat_id": 6
+      "cat_id": 2
     },
     {
       "title": "Portable & Flexible Mini Tripod",
@@ -208,7 +208,7 @@
       "title": "Super Soft Microfiber Car Duster",
       "img": "https://m.media-amazon.com/images/I/61i4xH1uq-L._SX679_.jpg",
       "link": "https://amzn.to/48A0Bz3",
-      "cat_id": 6
+      "cat_id": 2
     },
     {
       "title": "Car Mobile Phone Holder Stand for Dashboard",
@@ -220,7 +220,7 @@
       "title": "Mirror Dash Cam Upgraded with WIFI, GPS, 10\" Full Touch Screen Rear View Mirror Camera with Waterproof Backup Camera",
       "img": "https://m.media-amazon.com/images/I/71Dxpe88rnL._SX569_.jpg",
       "link": "https://amzn.to/41MpBRG",
-      "cat_id": 6
+      "cat_id": 2
     },
     {
       "title": "Rich Dad Poor Dad (Marathi)",
@@ -345,7 +345,7 @@
       "title":"Helmet for Men",
       "img": "https://m.media-amazon.com/images/I/51BXMsxaVoL._SX679_.jpg",
       "link": "https://amzn.to/47iUJt8",
-      "cat_id": 6
+      "cat_id": 2
     },
     {
       "title":"Polyester Sports Gym Duffle Bag",
