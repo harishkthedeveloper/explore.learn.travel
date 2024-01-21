@@ -6,7 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "3b4f483f30969ab57db95c6cf6230f40",
 "assets/AssetManifest.bin.json": "bb2e9d34fd6f07e6f0e9beba1c8effdc",
 "assets/AssetManifest.json": "525c43afead59cbcf02eb8290fd676e5",
-"assets/assets/data.json": "795ba0c79303dd7ffeb04c4548f8f954",
+"assets/assets/data.json": "c44096c5acdeec20bd21932190fbde7f",
 "assets/assets/img/banner.png": "ecfaa8646f0741933d7bc6d012f49d26",
 "assets/assets/img/insta.jpg": "e4e266bb2d4379d3e87ba845af43923d",
 "assets/assets/img/linked.png": "5d16f0f37abfcfd265fca8fcd56025ba",
@@ -30,9 +30,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "3b4f483f30969ab57db95c6cf6230f40
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b99b711a71e1b216dc5925879ab2bf06",
-"/": "b99b711a71e1b216dc5925879ab2bf06",
-"main.dart.js": "056dcb4bd8a60cf8426e50bea8d906d4",
+"index.html": "1b65b549c1889cbdd206157153fef50c",
+"/": "1b65b549c1889cbdd206157153fef50c",
+"main.dart.js": "86878ba472599312877f042919b2d218",
 "manifest.json": "69966a03d3922866088ca26b8d2f028d",
 "version.json": "923d4091e33d9e0a01d861cd7e3cb0d2"};
 // The application shell files that are downloaded before a service worker can
