@@ -32,7 +32,7 @@
   "Product": [
     {
       "title": "Sony Alpha ZV-E10L with Zoom Lens 16-55 mm",
-      "img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71EnzcOtq2L._SX569_.jpg",
+      "img": "https://m.media-amazon.com/images/I/71u7HJItZoL._SL1500_.jpg",
       "link": "https://amzn.to/47iNUI7",
       "cat_id": 1
     },{
@@ -77,6 +77,37 @@
       "cat_id": 7
     },
     {
+      "title": "Bosch 13 Place Settings, Free Standing Dishwasher (SMS66GI01I, Silver Inox), extra dry and hygienic wash",
+      "img": "https://m.media-amazon.com/images/I/61vH0gpEqIL._SL1500_.jpg",
+      "link": "https://amzn.to/3ViEx8v",
+      "cat_id": 7
+    },{
+      "title": "Bosch 13 Place Settings Dishwasher (SMS66GW01I, White)",
+      "img": "https://m.media-amazon.com/images/I/61yYf0bKNXL._SL1500_.jpg",
+      "link": "https://amzn.to/3Vjbf9Q",
+      "cat_id": 7
+    },{
+      "title": "LG 224 L 4 Direct-Cool Smart Inverter Compressor Single-Door Refrigerator (GL-D241ASCY, Scarlet Charm, Base stand with Drawer, 2023 Model)",
+      "img": "https://m.media-amazon.com/images/I/71j0Smcvf2L._SL1500_.jpg",
+      "link": "https://amzn.to/4e0vBM8",
+      "cat_id": 7
+    },{
+      "title": "LG 224 L 5 Star Direct-Cool Smart Inverter Compressor Single-Door Refrigerator (GL-D241ABCU, Blue Charm, Base stand with Drawer, 2023 Model)",
+      "img": "https://m.media-amazon.com/images/I/71yBtgYwPmL._SL1500_.jpg",
+      "link": "https://amzn.to/4dUouoz",
+      "cat_id": 7
+    },{
+      "title": "Samsung 7 kg, Eco Bubble Techn, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA70BG4441YYTL, Lavender Gray)",
+      "img": "https://m.media-amazon.com/images/I/71crxH86nRL._SL1500_.jpg",
+      "link": "https://amzn.to/3WSmxTA",
+      "cat_id": 7
+    },{
+      "title": "Livronic Plastic Wet And Dry Cotton Pad Floor Mop 67X14X5 (18-Inch Head)",
+      "img": "https://m.media-amazon.com/images/I/61PycHGHhmL._SL1080_.jpg",
+      "link": "https://amzn.to/3KljrQE",
+      "cat_id": 7
+    },
+    {
       "title": "Kitchen Food Weighing Scale",
       "img": "https://m.media-amazon.com/images/I/51CF0NoyUUL._SX385_.jpg",
       "link": "https://amzn.to/3NFh4d9",
@@ -85,6 +116,16 @@
       "title": "Kitchen Food Weighing Scale",
       "img": "https://m.media-amazon.com/images/I/51CF0NoyUUL._SX385_.jpg",
       "link": "https://amzn.to/3NFh4d9",
+      "cat_id": 5
+    },{
+      "title": "LIQUIX MAX Insulated water bottle 500ml with bag for kids",
+      "img": "https://m.media-amazon.com/images/I/51r3UAmXmsL.jpg",
+      "link": "https://amzn.to/3R0FPCg",
+      "cat_id": 5
+    },{
+      "title": "LIQUIX MAX Insulated water bottle 550ml with cartoons and bag for kids",
+      "img": "https://m.media-amazon.com/images/I/61kA4Gt5BlL._SL1500_.jpg",
+      "link": "https://amzn.to/4aCEo40",
       "cat_id": 5
     },
     {
@@ -100,6 +141,11 @@
       "cat_id": 3
     },
     {
+      "title": "Finish Dishwasher Combo",
+      "img": "https://m.media-amazon.com/images/I/61LbKECC-HL._SL1000_.jpg",
+      "link": "https://amzn.to/3x3F7NQ",
+      "cat_id": 7
+    },{
       "title": "Insulated Flask Water Bottle, 500 ML",
       "img": "https://m.media-amazon.com/images/I/61FTilPhsOL._SX522_.jpg",
       "link": "https://amzn.to/3vfciwO",
@@ -142,6 +188,11 @@
       "title": "Flexible Gorillapod Tripod with 360",
       "img": "https://m.media-amazon.com/images/I/71YTwI+ZfAL._SY450_.jpg",
       "link": "https://amzn.to/3H0LBP3",
+      "cat_id": 1
+    },{
+      "title": "F N Finautica Wooden Italian Wooden Crafter Standard Size Tripod Floor Lamp with Jute Shade, Bulb and Holder, Pack of 1 LED",
+      "img": "https://m.media-amazon.com/images/I/41+sO-+kccL.jpg",
+      "link": "https://amzn.to/3yzPQ3h",
       "cat_id": 1
     },
     {
@@ -197,6 +248,11 @@
       "img": "https://m.media-amazon.com/images/I/61Sgk1yonML._SX679_.jpg",
       "link": "https://amzn.to/3tD985B",
       "cat_id": 1
+    },{
+      "title": "Amazon Basics 7-in-1 USB C HUB",
+      "img": "https://m.media-amazon.com/images/I/516uaquqfLL._SL1500_.jpg",
+      "link": "https://amzn.to/4bVyRXn",
+      "cat_id": 1
     },
     {
       "title": "Wireless Mic with Charging Case, Lavalier Microphone Compatible for Type-C & iPhone",
@@ -211,23 +267,17 @@
       "cat_id": 2
     },
     {
-      "title": "WOLFBOX Dual Dash Camera Front and Rear for Car 2.5K Mirror Dash Cam Upgraded with WIFI, GPS, 10\" Full Touch Screen Rear View Mirror Camera with Waterproof Backup Camera,  Rearview Car Camera with Night Vision",
-      "img": "https://m.media-amazon.com/images/I/71Dxpe88rnL._SL1500_.jpg",
-      "link": "https://amzn.to/42euhzR",
-      "cat_id": 2
-    },{
-      "title": "WOLFBOX G890 12\" 2K Triple Mirror Dash Cam, 3 Channel Rear View Mirror Camera",
-      "img": "https://m.media-amazon.com/images/I/71xJ+x4j8OL._SL1500_.jpg",
-      "link": "https://amzn.to/47Ojy0a",
-      "cat_id": 2
-    },
-    {
       "title": "Car Mobile Phone Holder Stand for Dashboard",
       "img": "https://m.media-amazon.com/images/I/31xVvQS0zML._SX300_SY300_QL70_FMwebp_.jpg",
       "link": "https://amzn.to/3REkMoI",
       "cat_id": 1
     },
-
+    {
+      "title": "Mirror Dash Cam Upgraded with WIFI, GPS, 10\" Full Touch Screen Rear View Mirror Camera with Waterproof Backup Camera",
+      "img": "https://m.media-amazon.com/images/I/71Dxpe88rnL._SX569_.jpg",
+      "link": "https://amzn.to/41MpBRG",
+      "cat_id": 2
+    },
     {
       "title": "Rich Dad Poor Dad (Marathi)",
       "img": "https://m.media-amazon.com/images/I/71U3l9gAkHL._SY425_.jpg",
@@ -376,6 +426,12 @@
       "img": "https://m.media-amazon.com/images/I/41fGsanz86L._SX300_SY300_QL70_FMwebp_.jpg",
       "link": "https://amzn.to/3NJr6dy",
       "cat_id": 1
+    },
+    {
+      "title":"ZERO EMI : Unlock Your Financial Freedom",
+      "img": "https://m.media-amazon.com/images/I/510rz7pWMoL._SL1200_.jpg",
+      "link": "https://amzn.to/3VgGPop",
+      "cat_id": 4
     }
   ]
 }
